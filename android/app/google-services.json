@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "537694901064",
+    "firebase_url": "https://fir-co-5718b.firebaseio.com",
+    "project_id": "fir-co-5718b",
+    "storage_bucket": "fir-co-5718b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537694901064:android:304c9708c38f062228597d",
+        "android_client_info": {
+          "package_name": "com.lukastyas.flutter_firebase_backendapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537694901064-fkg1diqacruord4pqcln8jui47rfs0hl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdsq1LbPMJ2VgNC5xvsloTbtlamHdPOhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537694901064-fkg1diqacruord4pqcln8jui47rfs0hl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
